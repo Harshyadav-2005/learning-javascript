@@ -1,3 +1,6 @@
+"use strict" // Treat all Js code as newer version 
+
+
 const AccountId = 324233
 let accountEmail = "siuuu@gmail.com"
 var accountPassword = "54353"
